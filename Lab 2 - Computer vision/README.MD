@@ -4,11 +4,11 @@
 Através desse recurso, a IA identifica rostos contidos na imagem e os numera.
 
 01 - Dentro do Vision Studio, na guia *face* clique na opção *Detect faces in an image*:
-<img align="right" src="/inputs/foto.jpg" width=""/> 
+<img align="right" src="./inputs/foto.jpg" width=""/> 
 
 
 02 - Este recurso tras imagens como exemplo para teste e possibilidade de upload. Eu fiz o upload da foto do Hugh Jackman, o famoso wolverine dos cinemas:
-<img align="right" src="/outputs/facedetection.jpg" width=""/> 
+<img align="right" src="./outputs/facedetection.jpg" width=""/> 
 
 ...
 
