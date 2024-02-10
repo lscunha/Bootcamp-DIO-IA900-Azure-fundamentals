@@ -16,11 +16,11 @@ Através desse recurso, a IA identifica rostos contidos na imagem e os numera.
 Com esse recurso, a IA adiciona descrição às imagens adicionadas.
 
 01 - Dentro do Vision Studio, na guia *Image analysis* clicamos na opção *Add captions to images*:
-<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/a61d6666-bda5-45d3-8081-d46eefbbaf95" width=""/> 
+<img align="right" src="./inputs/captions.jpg" width=""/> 
 
 
 02 - O recurso trás algumas imagens de exemplo para que você realize testes do serviço e até mesmo a possibilidade de realizar upload de uma. No meu caso, fiz o upload e minha imagem foi toda descrita, com detalhes específicos:
-<img align="right" src="/outputs/descricao.jpg" width=""/> 
+<img align="right" src="./outputs/descricao.jpg" width=""/> 
 
 ...
 
